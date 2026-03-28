@@ -24,3 +24,7 @@ python3 analyze.py bugreport.zip --csv results.csv
 - Per-app network usage (sent/received)
 - Alarm wakeups per app
 - Total screen-off time vs wakelocked time
+
+
+## Also includes
+- `battery_historian.py` — Generate HTML battery drain report (merged from pixel-battery-historian)
